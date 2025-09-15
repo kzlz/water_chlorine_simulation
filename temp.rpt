@@ -1,0 +1,148 @@
+  Page 1                                    Mon Sep 15 23:56:10 2025
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Mon Sep 15 23:56:10 2025
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: Balanced after 5 trials
+     0:00:00: Reservoir River is emptying
+     0:00:00: Reservoir Lake is closed
+     0:00:00: Tank 1 is emptying at 13.10 m
+     0:00:00: Tank 2 is emptying at 23.50 m
+     0:00:00: Tank 3 is emptying at 29.00 m
+   
+  WARNING: Negative pressures at 0:00:00 hrs.
+   
+     1:00:00: Pump 10 changed by timer control
+     1:00:00: Balanced after 3 trials
+     1:00:00: Reservoir Lake is emptying
+     1:00:00: Pump 10 changed from closed to open
+   
+  WARNING: Negative pressures at 1:00:00 hrs.
+   
+     2:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 2:00:00 hrs.
+   
+     3:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 3:00:00 hrs.
+   
+     4:00:00: Balanced after 4 trials
+   
+  WARNING: Negative pressures at 4:00:00 hrs.
+   
+     5:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 5:00:00 hrs.
+   
+     6:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 6:00:00 hrs.
+   
+     7:00:00: Balanced after 7 trials
+   
+  WARNING: Negative pressures at 7:00:00 hrs.
+   
+     8:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 8:00:00 hrs.
+   
+     8:25:25: Balanced after 1 trials
+   
+  WARNING: Negative pressures at 8:25:25 hrs.
+   
+     9:00:00: Balanced after 4 trials
+     9:00:00: Tank 2 is closed at 6.50 m
+     9:00:00: Pipe 50 changed from open to temporarily closed
+   
+  WARNING: Negative pressures at 9:00:00 hrs.
+   
+    10:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 10:00:00 hrs.
+   
+    10:16:05: Balanced after 3 trials
+    10:16:05: Tank 1 is closed at 0.10 m
+    10:16:05: Pipe 40 changed from open to temporarily closed
+   
+  WARNING: Negative pressures at 10:16:05 hrs.
+   
+    11:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 11:00:00 hrs.
+   
+    12:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 12:00:00 hrs.
+   
+    13:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 13:00:00 hrs.
+   
+    14:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 14:00:00 hrs.
+   
+    15:00:00: Pump 10 changed by timer control
+    15:00:00: Balanced after 2 trials
+    15:00:00: Reservoir Lake is closed
+    15:00:00: Pump 10 changed from open to closed
+   
+  WARNING: Negative pressures at 15:00:00 hrs.
+   
+    16:00:00: Balanced after 28 trials
+   
+  WARNING: Negative pressures at 16:00:00 hrs.
+   
+    17:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 17:00:00 hrs.
+   
+    18:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 18:00:00 hrs.
+   
+    19:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 19:00:00 hrs.
+   
+    20:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 20:00:00 hrs.
+   
+    21:00:00: Balanced after 2 trials
+   
+  WARNING: Negative pressures at 21:00:00 hrs.
+   
+    22:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 22:00:00 hrs.
+   
+    23:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 23:00:00 hrs.
+   
+    24:00:00: Balanced after 3 trials
+   
+  WARNING: Negative pressures at 24:00:00 hrs.
+   
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       2.62283e+011
+  Mass Outflow:      2.49301e+011
+  Mass Reacted:      1.29378e+010
+  Final Mass:        4.43624e+007
+  Mass Ratio:         1.00000
+  ================================
+
+  Analysis ended Mon Sep 15 23:56:10 2025
