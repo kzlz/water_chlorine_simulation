@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1df5665-7e56-4ace-8e57-4e68c88e0f1a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_gnn_gru.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.bin" beforeDir="false" afterPath="$PROJECT_DIR$/temp.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.inp" beforeDir="false" afterPath="$PROJECT_DIR$/temp.inp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/temp.rpt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="32eLY7NMa64zjYZlY6Nn6T6lYEw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,11 +43,13 @@
   "keyToString": {
     "Python.check.executor": "Run",
     "Python.debug.executor": "Run",
+    "Python.generate_dataset.executor": "Run",
     "Python.run_simulation.executor": "Run",
     "Python.toolkit.executor": "Run",
+    "Python.train_gnn_gru.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>

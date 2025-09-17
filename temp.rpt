@@ -1,4 +1,4 @@
-  Page 1                                    Mon Sep 15 23:56:10 2025
+  Page 1                                    Tue Sep 16 22:31:19 2025
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -7,7 +7,7 @@
   *                         Version 2.2                            *
   ******************************************************************
   
-  Analysis begun Mon Sep 15 23:56:10 2025
+  Analysis begun Tue Sep 16 22:31:19 2025
 
    
   Hydraulic Status:
@@ -138,11 +138,11 @@
   Water Quality Mass Balance (mg)
   ================================
   Initial Mass:      0.00000e+000
-  Mass Inflow:       2.62283e+011
-  Mass Outflow:      2.49301e+011
-  Mass Reacted:      1.29378e+010
-  Final Mass:        4.43624e+007
+  Mass Inflow:       2.73212e+011
+  Mass Outflow:      2.59689e+011
+  Mass Reacted:      1.34769e+010
+  Final Mass:        4.62108e+007
   Mass Ratio:         1.00000
   ================================
 
-  Analysis ended Mon Sep 15 23:56:10 2025
+  Analysis ended Tue Sep 16 22:31:19 2025
