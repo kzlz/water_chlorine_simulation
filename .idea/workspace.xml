@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1df5665-7e56-4ace-8e57-4e68c88e0f1a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/generate_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_gnn_gru.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_coordinates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluate_optimal_layout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_comparison_advanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimize_sensors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.bin" beforeDir="false" afterPath="$PROJECT_DIR$/temp.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.inp" beforeDir="false" afterPath="$PROJECT_DIR$/temp.inp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.rpt" beforeDir="false" afterPath="$PROJECT_DIR$/temp.rpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best_model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/best_model.pth" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,11 @@
   "keyToString": {
     "Python.check.executor": "Run",
     "Python.debug.executor": "Run",
+    "Python.evaluate_optimal_layout.executor": "Run",
+    "Python.final_comparison.executor": "Run",
+    "Python.final_comparison_advanced.executor": "Run",
     "Python.generate_dataset.executor": "Run",
+    "Python.optimize_sensors.executor": "Run",
     "Python.run_simulation.executor": "Run",
     "Python.toolkit.executor": "Run",
     "Python.train_gnn_gru.executor": "Run",
